@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-if [[ ! -z $LOGNAME ]
+if [[ ! -z $LOGNAME ]]
 then
 usermod -a -G video,render $LOGNAME || echo "no logname"
 fi
