@@ -1,3 +1,9 @@
+pika-meta (10:3.0-99pika4) kinetic; urgency=medium
+
+  * Add rocm post script
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Thu, 12 Jan 2023 16:48:00 +0300
+
 pika-meta (10:3.0-99pika3) kinetic; urgency=medium
 
   * add bottles and heroic gamelauncher to gameutils and remove steamtinkerlaunch and it's deps
