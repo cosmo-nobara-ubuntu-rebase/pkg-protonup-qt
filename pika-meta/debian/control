@@ -273,9 +273,8 @@ Depends: ${misc:Depends},
 	ffmpeg,
 	ffmpegthumbs,
 	vlc,
-	exe-thumbnailer, kio-extras, 
-	fluidsynth, 
-	timidity,
+	exe-thumbnailer,
+	kio-extras, 
 	intel-media-va-driver-non-free, 
 	nvidia-vaapi-driver, 
 	va-driver-all, 
@@ -317,7 +316,7 @@ Depends: ${misc:Depends},
 	rocminfo,	
 Description: A Meta package to install pika's collection of ROCm software.
 
-Package: pika-office-meta
+Package: pika-libreoffice-meta
 Architecture: all
 Depends: ${misc:Depends}, 
 	libreoffice-calc,
