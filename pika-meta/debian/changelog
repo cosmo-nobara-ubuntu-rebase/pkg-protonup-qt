@@ -1,4 +1,4 @@
-pika-meta (10:3.0-99pika6) kinetic; urgency=medium
+pika-meta (10:3.0-99pika7) kinetic; urgency=medium
 
   * Remove random garbage from codecs, and rename pika-office-meta to pika-libreoffice-meta 
 
