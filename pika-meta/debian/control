@@ -335,3 +335,9 @@ Depends: ${misc:Depends},
 	libreoffice-ogltrans,
 Description: A Meta package to install pika's collection of Office software.
 
+Package: pika-gameutils-meta-extra
+Architecture: all
+Depends: ${misc:Depends}, 
+	pika-gameutils-meta
+Description: A Meta package to Extend pika's collection of gaming software.
+
