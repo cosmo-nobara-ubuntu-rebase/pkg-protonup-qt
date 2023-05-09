@@ -1,3 +1,9 @@
+pika-meta (10:3.1-99pika1) lunar; urgency=medium
+
+  * Lunar
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Thu, 12 Jan 2023 16:48:00 +0300
+
 pika-meta (10:3.0-99pika7) lunar; urgency=medium
 
   * Remove random garbage from codecs, and rename pika-office-meta to pika-libreoffice-meta 
