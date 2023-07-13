@@ -9,14 +9,13 @@ Rules-Requires-Root: no
 Package: pika-package-manager
 Architecture: all
 Depends: ${misc:Depends}, 
-	mintdrivers, 
+	pika-drivers, 
 	mintinstall, 
 	update-manager, 
 	python-apt-common,
 	gdebi,
 	repoman,
 	pikman,
-	apx-subsystem-settings,
 Description: A Meta package to install pika's collection of package management software.
 
 Package: pika-gameutils-meta
