@@ -10,6 +10,7 @@ Package: pika-package-manager
 Architecture: all
 Depends: ${misc:Depends}, 
 	pika-drivers,
+	synaptic,
 	python-apt-common,
 	gdebi,
 	repoman,
