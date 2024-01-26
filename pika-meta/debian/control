@@ -9,9 +9,7 @@ Rules-Requires-Root: no
 Package: pika-package-manager
 Architecture: all
 Depends: ${misc:Depends}, 
-	pika-drivers, 
-	mintinstall, 
-	update-manager, 
+	pika-drivers,
 	python-apt-common,
 	gdebi,
 	repoman,
