@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+
+flatpak -y install flathub net.davidotek.pupgui2

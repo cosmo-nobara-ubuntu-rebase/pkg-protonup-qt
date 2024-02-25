@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Clone Upstream
-cd ./pika-meta
+cd ./protonup-qt
 
 # Get build deps
 apt-get build-dep ./ -y

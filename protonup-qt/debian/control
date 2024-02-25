@@ -1,0 +1,14 @@
+Source: protonup-qt
+Section: metapackages
+Priority: optional
+Maintainer: Ward Nakchbandi <hotrod.master@hotmail.com>
+Standards-Version: 4.6.1
+Build-Depends: debhelper-compat (= 13)
+Rules-Requires-Root: no
+
+Package: protonup-qt
+Architecture: all
+Depends: ${misc:Depends}, 
+	flatpak,
+Description: ProtonUP-QT flatpak installer.
+

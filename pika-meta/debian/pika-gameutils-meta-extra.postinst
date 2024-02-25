@@ -1,6 +1,0 @@
-#!/bin/bash
-
-set -e
-
-flatpak -y install com.usebottles.bottles
-flatpak -y install com.heroicgameslauncher.hgl
